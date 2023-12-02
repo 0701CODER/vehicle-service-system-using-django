@@ -1,9 +1,7 @@
 # VEHICLE SERVICE MANAGEMENT
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Vasanth%20Kumar-red)
 ---
-## SCREENSHOTS
-### Home Page
-![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/home.png?raw=true)
+
 ### Admin Dashboard Dark theme
 ![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/admin_dark.png?raw=true)
 ### Admin Dashboard Light theme
@@ -94,7 +92,3 @@ https://myaccount.google.com/lesssecureapps
 ## Disclaimer
 This project is developed for demo purpose and it's not supposed to be used in real application.
 
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
